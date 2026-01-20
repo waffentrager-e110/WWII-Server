@@ -1,4 +1,4 @@
-# Добро пожаловать в «Мир танков», боец!
+# Добро пожаловать в «Last Front», боец!
 
 ## Оглавление
 1. [Руководство для новичков](https://github.com/waffentrager-e110/WWII-Server/blob/main/Help.md)
